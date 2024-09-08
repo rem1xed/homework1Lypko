@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\homework2\homework2\bin\Debug\homework2.exe.config
-C:\Users\User\source\repos\homework2\homework2\bin\Debug\homework2.exe
-C:\Users\User\source\repos\homework2\homework2\bin\Debug\homework2.pdb
-C:\Users\User\source\repos\homework2\homework2\obj\Debug\homework2.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\homework2\homework2\obj\Debug\homework2.exe
-C:\Users\User\source\repos\homework2\homework2\obj\Debug\homework2.pdb
